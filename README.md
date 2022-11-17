@@ -2,4 +2,4 @@
 
 <br>
 
-![Alt text](/src/assets/img/screenshot.PNG?raw=true)
+![Alt text](/src/assets/img/screenshot.png?raw=true)
